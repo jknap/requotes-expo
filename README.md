@@ -47,7 +47,3 @@ eas build -p android --profile waldo-android
 # https://expo.dev/artifacts/eas/mH8xyCMyaL8x8krS1eMexB.apk
 ```
 - download the .apk file and voilà!
-
-
-# Build an iOS Simulator .app in a React Native project
-# Build an Android emulator .apk in a React Native project
