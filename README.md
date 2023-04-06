@@ -13,10 +13,6 @@
   }
 }
 ```
-- make sure you are logged in to the Expo CLI with the same account you used to create the EAS project:
-```bash
-npx expo login
-```
 - now you can run the eas build command with that profile:
 ```bash
 eas build -p ios --profile waldo-ios
