@@ -1,0 +1,17 @@
+{
+  "cli": {
+    "version": ">= 3.8.1"
+  },
+  "build": {
+    "waldo-ios": {
+      "ios": {
+        "simulator": true
+      }
+    },
+    "waldo-android": {
+      "android": {
+        "developmentClient": true
+      }
+    }
+  }
+}
